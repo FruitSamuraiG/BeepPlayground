@@ -1,4 +1,4 @@
-# :heart: ![](https://placehold.co/900x60/transparent/pink/?text=BeepPlayground+(CSHARP)&font=roboto) :heart:
+# :heart: ![](https://placehold.co/900x60/transparent/pink/?text=BeepPlayground+(CSHARP)&font=roboto)
 - This program uses Windows Console funtion to play Beep-sound with different frequencies and durations of beep
 - I used beeps to play with some things I wanted to learn. So here's the list of features:
   - Music intro with prepared beep's data and ASCII-images
@@ -6,7 +6,7 @@
   - HTTP-request to Hugging Face API for user's choosen song (result is parsed by regex to extract beep's data)
   - Inserting and getting beepsongs into/from PostgreSQL Database (from the Hugging Face API)
 - Builded program with file examples and source code are here for you to try things and learn something, don't forget to change API key in the source code!
-# :smiley: ![](https://placehold.co/900x60/transparent/pink/?text=My+Contacts&font=roboto) :smiley:
+# :smiley: ![](https://placehold.co/900x60/transparent/pink/?text=My+Contacts&font=roboto)
   - Telegram: @toshiforlife
   - E-mail: ilya-druchenko@mail.ru
 # 💻 ![](https://placehold.co/900x60/transparent/pink/?text=Documentation&font=roboto) 💻
@@ -79,5 +79,5 @@
   </tr>
 </table>
 
-# :pizza: ![](https://placehold.co/900x60/transparent/pink/?text=Pizza!&font=roboto) :pizza:
+# :pizza: ![](https://placehold.co/900x60/transparent/pink/?text=Pizza!&font=roboto)
 ![](https://tenor.com/view/limbus-company-rodion-limbus-company-gif-5051786804155307089.gif)
