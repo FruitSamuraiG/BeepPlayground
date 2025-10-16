@@ -9,7 +9,7 @@
 # :smiley: ![](https://placehold.co/900x60/transparent/pink/?text=My+Contacts&font=roboto)
   - Telegram: @toshiforlife
   - E-mail: ilya-druchenko@mail.ru
-# 💻 ![](https://placehold.co/900x60/transparent/pink/?text=Documentation&font=roboto) 💻
+# 💻 ![](https://placehold.co/900x60/transparent/pink/?text=Documentation&font=roboto)
 ## Test.cs
 - This file contains Main function of program, just some sort of interface for users.
 ## DatabaseCommunication.cs
